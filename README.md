@@ -30,7 +30,7 @@ What is a GitHub repository? Describe how to create a new repository and the ess
 Version Control with Git:
 
 Explain the concept of version control in the context of Git. How does GitHub enhance version control for developers?
-**Answe** - Version control in terms of Git is system that records changes to files over time, the changes can be tracked as developers or teams collaborate on projects. 
+**Answer** - Version control in terms of Git is system that records changes to files over time, the changes can be tracked as developers or teams collaborate on projects. 
 - GitHub enhances version control for developers by making collaborations possible. Developers are able to share repositories with others and allow them to make changes by managing persmissions.
 
 Branching and Merging in GitHub:
